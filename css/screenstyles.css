@@ -186,7 +186,7 @@ footer {
 
 	/* Style rule for pseudo-classes */
 	nav li a:link {
-		color: #FFFFFF;
+		color: #EE4499;
 	}
 	
 	nav li a:hover {
@@ -196,7 +196,7 @@ footer {
 	
 	/* Style specifies a gradient for the body element */
 	body {
-		background-color: #FFFFFF; /* All others */
+		background-color: #EE4499; /* All others */
 	}
 	
 	/* Style sheet created by: Fiona Kalcevic 4/19/2022 */
